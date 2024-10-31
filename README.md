@@ -21,16 +21,16 @@ A one-stop shop for everything Azure AI at MS Ignite!
 ## Expert Meetup & resources
 
 
-|   Topic     |    Resources   |
-|   ---      |   ---     | 
-|  Trustworthy AI     |   | 
-|  Azure AI Studio | |
-|  Azure AI Search  |  |
-|  Azure AI Model catalog |  |
-|  *coming soon*       | | 
-|  Azure AI Services   | |
-|  Azure OpenAI service    |  | 
-|  Azure AI            | | 
+| Station # |   Topic     |  Resources   |
+| --------- | ----------- | ------------ | 
+| 1         |  Azure AI Model catalog |  |
+| 2 & 3     |  Azure OpenAI Service | |
+| 4         |  *coming soon*  |  |
+| 5         |  Azure AI Studio |  |
+| 6         |  Azure AI Services      | | 
+| 7         |  Trustworthy AI    | |
+| 8         |  Azure AI Search    |  | 
+| Spotlight |  Azure AI            | | 
 
 ## Community Area Exec/Expert Meet-up Schedule
 
