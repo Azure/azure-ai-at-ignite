@@ -40,25 +40,22 @@ A one-stop shop for everything Azure AI at MS Ignite!
 
 
 ## Azure AI Session & Resources
-
-
 ### Day 1 - Tuesday, November 19th 
-| Important Links   | Description                                                              |                                                                                                                                                                                                                  |
+| Important Links   | Description |                   
 | ------- | ---------------------------------------------------------------------------|
 | [Day 1 - All AI sessions](https://ignite.microsoft.com/en-US/sessions/BRKFP372?source=sessions) | Session catalog sorted for all AI sessions on Day 1 at MS Ignite | 
 ### Day 2 - Wednesday, November 20th
-| Important Links   | Description                                                              |                                                                                                                                                                                                                  |
+| Important Links   | Description |
 | ------- | ---------------------------------------------------------------------------|
 | [Day 2 - All AI sessions](https://ignite.microsoft.com/en-US/sessions?day=2024-11-20&end=1439&filter=topic%2FlogicalValue%3EAI) |  Session catalog sorted for all AI sessions on Day 2 at MS Ignite |
 ### Day 3 - Thursday, November 21st
-| Important Links   | Description                                                              |                                                                                                                                                                                                                  |
+| Important Links   | Description |
 | ------- | ---------------------------------------------------------------------------|
 | [Day 3 - All AI sessions](https://ignite.microsoft.com/en-US/sessions?day=2024-11-21&end=1439&filter=topic%2FlogicalValue%3EAI) |  Session catalog sorted for all AI sessions on Day 3 at MS Ignite |
 ### Day 4 - Friday, November 22nd
-| Important Links   | Description                                                              |                                                                                                                                                                                                                  |
+| Important Links   | Description |
 | ------- | ---------------------------------------------------------------------------|
 | [Day 4 - All AI sessions](https://ignite.microsoft.com/en-US/sessions?day=2024-11-22&end=1259&filter=topic%2FlogicalValue%3EAI) |  Session catalog sorted for all AI sessions on Day 4 at MS Ignite |
-
 ## Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
