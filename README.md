@@ -6,7 +6,7 @@ A one-stop shop for everything Azure AI at MS Ignite!
 ## Top Resources
 [![](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://aka.ms/build/discord)
 ### Samples
-- Check out our new AI Templates Gallery released at GitHub Universe
+- Kickstart your building with an AI template from our [AI Templates Gallery](https://azure.github.io/ai-app-templates/) released at GitHub Universe!
 ### Reading
 - 
 ### Video
