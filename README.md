@@ -8,7 +8,7 @@ A one-stop shop for everything Azure AI at MS Ignite!
 ### Samples
 - Kickstart your building with an AI template from our [AI Templates Gallery](https://azure.github.io/ai-app-templates/) released at GitHub Universe!
 ### Reading
-- 
+- Checkout our [AI Platform blog](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/bg-p/AIPlatformBlog) for the latest of Azure AI platform
 ### Video
 - 
 ### Product 
