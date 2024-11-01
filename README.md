@@ -12,7 +12,8 @@ A one-stop shop for everything Azure AI at MS Ignite!
 ### Video
 - 
 ### Product 
-- 
+- Try [Azure AI Studio](https://aka.ms/azureaistudio)!
+- Try [GitHub Models](https://github.com/marketplace/models)!
 ### Find more announcements
 - 
 ### Notes
