@@ -35,9 +35,12 @@ A one-stop shop for everything Azure AI at MS Ignite!
 
 ## Community Area Exec/Expert Meet-up Schedule
 
-| Date | Time | Execuctive | Topic Area |
+| Date | Time | Executive | Topic Area |
 | ---  | ---  | ---------  | ---------- |
-| TBD | TBD | TBD | Azure AI Platform |
+| November 20th | 4:00PM - 4:45PM | Brendan Burns & Eric Boyd | Kubernetes and AI |
+| November 20th | 9:00AM - 9:45PM | Pablo Castro | Azure AI Search |
+| November 21st | 9:00AM - 9:45PM | Sarah Bird | Trustworthy AI | 
+| TBD | Mads Bolaris | TBD | Autonomous agents |
 
 
 ## Azure AI Session & Resources
