@@ -1,8 +1,5 @@
-# azure-ai-at-ignite
-A one-stop shop for everything Azure AI at MS Ignite!
-
 # Azure AI @ MS Ignite 2024
-
+A one-stop shop for everything Azure AI at MS Ignite!
 ## Top Resources
 [![](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://aka.ms/build/discord)
 ### Samples
