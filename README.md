@@ -21,13 +21,13 @@ A one-stop shop for everything Azure AI at MS Ignite!
 
 | Station # |   Topic     |  Resources   |
 | --------- | ----------- | ------------ | 
-| 1         |  Azure AI Model catalog |  |
-| 2 & 3     |  Azure OpenAI Service | |
+| 1         |  Azure AI Model catalog | [Learn more](https://www.youtube.com/watch?v=cfkrgVJ40pQ&pp=ygUWYXp1cmUgYWkgbW9kZWwgY2F0YWxvZw%3D%3D)  |
+| 2 & 3     |  Azure OpenAI Service | [Learn about GPT-4o Realtime for speech and audio](https://www.youtube.com/watch?v=n4R1LWvqa1k&pp=ygUUYXV6cmUgb3BlbmFpIHNlcnZpY2U%3D) |
 | 4         |  Azure AI Agents  |  |
 | 5         |  Azure AI Foundry |  |
-| 6         |  Azure AI Services      | | 
-| 7         |  Trustworthy AI    | |
-| 8         |  Azure AI Search    |  | 
+| 6         |  Azure AI Services | | 
+| 7         |  Trustworthy AI    | [Learn how Microsoft implements Trustworthy AI](https://www.youtube.com/watch?v=YrEeonwWZJU)|
+| 8         |  Azure AI Search    | [Azure AI Search in ChatGPT and global scale apps](https://www.youtube.com/watch?v=NVp9jiMDdXc) | 
 | Spotlight |  Azure AI            | | 
 
 ## Community Area Exec/Expert Meet-up Schedule
