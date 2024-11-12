@@ -12,6 +12,13 @@ A one-stop shop for everything Azure AI at MS Ignite!
 - Try [Azure AI Foundry](https://aka.ms/azureaistudio)!
 - Try [GitHub Models](https://github.com/marketplace/models)!
 ### Find more announcements
+Azure AI Foundry
+- [Announcement blog]()
+- [AI Foundry Portal blog]()
+- [AI Foundry SDK blog]()
+- [Azure AI Foundry documentation]()
+- [Azure AI Foundry 
+Trustworthy AI
 - [Benchmarking news](https://aka.ms/Ignite2024/GenAIBenchmarking)📊
 - [Evaluation news](https://aka.ms/Ignite2024/GenAIEvaluations)📈
 - [Monitoring news](https://aka.ms/Ignite2024/GenAIMonitoring)🔍
@@ -27,7 +34,7 @@ A one-stop shop for everything Azure AI at MS Ignite!
 | 1         |  Azure AI Model catalog | [Learn more](https://www.youtube.com/watch?v=cfkrgVJ40pQ&pp=ygUWYXp1cmUgYWkgbW9kZWwgY2F0YWxvZw%3D%3D)  |
 | 2 & 3     |  Azure OpenAI Service | [Learn about GPT-4o Realtime for speech and audio](https://www.youtube.com/watch?v=n4R1LWvqa1k&pp=ygUUYXV6cmUgb3BlbmFpIHNlcnZpY2U%3D) |
 | 4         |  Azure AI Agents  |  |
-| 5         |  Azure AI Foundry |  |
+| 5         |  Azure AI Foundry | [docs](https://learn.microsoft.com/en-us/azure/ai-studio/), [learn modules](https://learn.microsoft.com/en-us/plans/3nd0bokgng58no) |
 | 6         |  Azure AI Services | | 
 | 7         |  Trustworthy AI    | [Learn how Microsoft implements Trustworthy AI](https://www.youtube.com/watch?v=YrEeonwWZJU)|
 | 8         |  Azure AI Search    | [Azure AI Search in ChatGPT and global scale apps](https://www.youtube.com/watch?v=NVp9jiMDdXc) | 
