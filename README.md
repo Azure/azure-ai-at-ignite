@@ -13,11 +13,10 @@ A one-stop shop for everything Azure AI at MS Ignite!
 - Try [GitHub Models](https://github.com/marketplace/models)!
 ### Find more announcements
 Azure AI Foundry
-- [Announcement blog]()
-- [AI Foundry Portal blog]()
-- [AI Foundry SDK blog]()
-- [Azure AI Foundry documentation]()
-- [Azure AI Foundry 
+- [Announcement blog](https://aka.ms/Ignite24/blog/AIStack)
+- [AI Foundry Portal blog](https://aka.ms/AzureAIFoundryportalIgnite2024Blog)
+- [AI Foundry SDK blog](https://aka.ms/AzureAIFoundrySDKAnnouncement)
+
 Trustworthy AI
 - [Benchmarking news](https://aka.ms/Ignite2024/GenAIBenchmarking)📊
 - [Evaluation news](https://aka.ms/Ignite2024/GenAIEvaluations)📈
