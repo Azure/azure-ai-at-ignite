@@ -12,7 +12,10 @@ A one-stop shop for everything Azure AI at MS Ignite!
 - Try [Azure AI Foundry](https://aka.ms/azureaistudio)!
 - Try [GitHub Models](https://github.com/marketplace/models)!
 ### Find more announcements
-- 
+- [Benchmarking news](https://aka.ms/Ignite2024/GenAIBenchmarking)
+- [Evaluation news](https://aka.ms/Ignite2024/GenAIEvaluations)
+- [Monitoring news](https://aka.ms/Ignite2024/GenAIMonitoring)
+- [AI governance news](aka.ms/Ignite2024/AIreports)
 ### Notes
 - **If you are on site** get your AI Badge in the Community Booth
 
