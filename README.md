@@ -23,8 +23,8 @@ A one-stop shop for everything Azure AI at MS Ignite!
 | --------- | ----------- | ------------ | 
 | 1         |  Azure AI Model catalog |  |
 | 2 & 3     |  Azure OpenAI Service | |
-| 4         |  *coming soon*  |  |
-| 5         |  Azure AI Studio |  |
+| 4         |  Azure AI Agents  |  |
+| 5         |  Azure AI Foundry |  |
 | 6         |  Azure AI Services      | | 
 | 7         |  Trustworthy AI    | |
 | 8         |  Azure AI Search    |  | 
