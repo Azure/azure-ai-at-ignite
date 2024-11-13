@@ -67,7 +67,7 @@ Trustworthy AI
 | ------- | ---------------------------------------------------------------------------|
 | [Day 4 - All AI sessions](https://ignite.microsoft.com/en-US/sessions?day=2024-11-22&end=1259&filter=topic%2FlogicalValue%3EAI) |  Session catalog sorted for all AI sessions on Day 4 at MS Ignite |
 ## Plans on Microsoft Learn
-Plans are the Recommended Next Step for all keynote, breakout, lab, and theatre sessions. We will leverage existing solution play Plans and align a single Plan to multiple sessions. These plans will be updated on a regular basis to ensure accurate and up-to-date information. 
+Plans are the recommended next step for all keynote, breakout, lab, and theatre sessions.These plans will be updated on a regular basis to ensure accurate and up-to-date information. 
 - [Start transforming your business with AI](https://aka.ms/StartTransformingBizAI)
 - [Accelerate generative AI model selection, evaluation, and multimodal integration](https://aka.ms/ADAI_OptlGenAIMod_Plan)
 - [Evolve with generative AI: Operationalize your AI solutions with fine-tuning and prompt flow](https://aka.ms/ADAI_OpGenAISols_Plan)
