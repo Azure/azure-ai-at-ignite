@@ -6,8 +6,12 @@ A one-stop shop for everything Azure AI at MS Ignite!
 - Kickstart your building with an AI template from our [AI Templates Gallery](https://azure.github.io/ai-app-templates/) released at GitHub Universe!
 ### Reading
 - Checkout our [AI Platform blog](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/bg-p/AIPlatformBlog) for the latest from Azure AI platform
-### Video
-- 
+### Plans on Microsoft Learn 
+*Plans are the recommended next step for all keynote, breakout, lab, and theatre sessions.These plans will be updated on a regular basis to ensure accurate and up-to-date information.*
+- [Start transforming your business with AI](https://aka.ms/StartTransformingBizAI)
+- [Accelerate generative AI model selection, evaluation, and multimodal integration](https://aka.ms/ADAI_OptlGenAIMod_Plan)
+- [Evolve with generative AI: Operationalize your AI solutions with fine-tuning and prompt flow](https://aka.ms/ADAI_OpGenAISols_Plan)
+- [Implementing data integration and model grounding with Azure AI Studio and Microsoft Fabric](https://aka.ms/ADAI_DevGenAIExp_Plan)
 ### Product 
 - Try [Azure AI Foundry](https://aka.ms/azureaistudio)!
 - Try [GitHub Models](https://github.com/marketplace/models)!
@@ -66,12 +70,6 @@ Trustworthy AI
 | Important Links   | Description |
 | ------- | ---------------------------------------------------------------------------|
 | [Day 4 - All AI sessions](https://ignite.microsoft.com/en-US/sessions?day=2024-11-22&end=1259&filter=topic%2FlogicalValue%3EAI) |  Session catalog sorted for all AI sessions on Day 4 at MS Ignite |
-## Plans on Microsoft Learn
-Plans are the recommended next step for all keynote, breakout, lab, and theatre sessions.These plans will be updated on a regular basis to ensure accurate and up-to-date information. 
-- [Start transforming your business with AI](https://aka.ms/StartTransformingBizAI)
-- [Accelerate generative AI model selection, evaluation, and multimodal integration](https://aka.ms/ADAI_OptlGenAIMod_Plan)
-- [Evolve with generative AI: Operationalize your AI solutions with fine-tuning and prompt flow](https://aka.ms/ADAI_OpGenAISols_Plan)
-- [Implementing data integration and model grounding with Azure AI Studio and Microsoft Fabric](https://aka.ms/ADAI_DevGenAIExp_Plan)
 
 ## Trademarks
 
