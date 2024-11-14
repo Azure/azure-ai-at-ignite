@@ -20,6 +20,7 @@ Azure AI Foundry
 - [Announcement blog](https://aka.ms/Ignite24/blog/AIStack)
 - [AI Foundry Portal blog](https://aka.ms/AzureAIFoundryportalIgnite2024Blog)
 - [AI Foundry SDK blog](https://aka.ms/AzureAIFoundrySDKAnnouncement)
+- [Azure AI Agents Service](https://aka.ms/AzureAI_Agents_Blog)
 
 Trustworthy AI
 - [Benchmarking news](https://aka.ms/Ignite2024/GenAIBenchmarking)📊
