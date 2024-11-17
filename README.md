@@ -29,6 +29,7 @@ Trustworthy AI
 - [AI governance news](aka.ms/Ignite2024/AIreports)🏛️
 ### Notes
 - **If you are on site** get your AI Badge in the Community Booth
+- **If you are a partner** please consider filling out the [Azure AI Infrastructure partner survey](https://aka.ms/AzureInfra/AIPartnerFeedback) 
 
 ## Expert Meetup & resources
 
