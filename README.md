@@ -38,7 +38,7 @@ Trustworthy AI
 | --------- | ----------- | ------------ | 
 | 1         |  Azure AI Model catalog | [Learn more](https://www.youtube.com/watch?v=cfkrgVJ40pQ&pp=ygUWYXp1cmUgYWkgbW9kZWwgY2F0YWxvZw%3D%3D)  |
 | 2 & 3     |  Azure OpenAI Service | [Learn about GPT-4o Realtime for speech and audio](https://www.youtube.com/watch?v=n4R1LWvqa1k&pp=ygUUYXV6cmUgb3BlbmFpIHNlcnZpY2U%3D) |
-| 4         |  Azure AI Agents  |  |
+| 4         |  Azure AI Agents Service  |  |
 | 5         |  Azure AI Foundry | checkout the [docs](https://learn.microsoft.com/en-us/azure/ai-studio/) & [learn modules](https://learn.microsoft.com/en-us/plans/3nd0bokgng58no)! |
 | 6         |  Azure AI Services | | 
 | 7         |  Trustworthy AI    | [Learn how Microsoft implements Trustworthy AI](https://www.youtube.com/watch?v=YrEeonwWZJU)|
