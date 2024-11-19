@@ -47,12 +47,14 @@ Trustworthy AI
 
 ## Community Area Exec/Expert Meet-up Schedule
 
-| Date | Time | Executive | Topic Area |
-| ---  | ---  | ---------  | ---------- |
-| November 20th | 4:00PM - 4:45PM | Brendan Burns & Eric Boyd | Kubernetes and AI |
-| November 20th | 9:00AM - 9:45PM | Pablo Castro | Azure AI Search |
-| November 21st | 9:00AM - 9:45PM | Sarah Bird | Trustworthy AI | 
-| TBD | Mads Bolaris | TBD | Autonomous agents |
+| Session Code | Date | Time | Executive | Topic Area |
+| ------------ | ---  | ---  | ---------  | ---------- |
+| COM1034 | November 19th | 12PM | Sarah Bird | Trustworthy AI | 
+| COM1033 | November 20th | 10AM | Pablo Castro | Azure AI Search |
+| COM1035 | November 20th | 4PM | Brendan Burns & Eric Boyd | Kubernetes and AI |
+
+
+
 
 
 ## Azure AI Session & Resources
