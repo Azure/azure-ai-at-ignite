@@ -37,10 +37,10 @@ Trustworthy AI
 | Station # |   Topic     |  Resources   |
 | --------- | ----------- | ------------ | 
 | 1         |  Azure AI Model catalog | [Learn more](https://www.youtube.com/watch?v=cfkrgVJ40pQ&pp=ygUWYXp1cmUgYWkgbW9kZWwgY2F0YWxvZw%3D%3D)  |
-| 2 & 3     |  Azure OpenAI Service | [Learn about GPT-4o Realtime for speech and audio](https://www.youtube.com/watch?v=n4R1LWvqa1k&pp=ygUUYXV6cmUgb3BlbmFpIHNlcnZpY2U%3D) |
-| 4         |  Azure AI Agents Service  |  |
+| 2 & 3     |  Azure OpenAI Service | [Learn about GPT-4o Realtime for speech and audio](https://www.youtube.com/watch?v=n4R1LWvqa1k&pp=ygUUYXV6cmUgb3BlbmFpIHNlcnZpY2U%3D), [Weights & Biases integration](https://aka.ms/WBFineTuningCollaboration) |
+| 4         |  Azure AI Agents Service  | [Azure AI Agents Service announcement blog](https://aka.ms/AzureAI_Agents_Blog) |
 | 5         |  Azure AI Foundry | checkout the [docs](https://learn.microsoft.com/en-us/azure/ai-studio/) & [learn modules](https://learn.microsoft.com/en-us/plans/3nd0bokgng58no)! |
-| 6         |  Azure AI Services | | 
+| 6         |  Azure AI Services | [Azure AI Multimodal Intelligence](https://aka.ms/mmi-launch-blog) | 
 | 7         |  Trustworthy AI    | [Learn how Microsoft implements Trustworthy AI](https://www.youtube.com/watch?v=YrEeonwWZJU)|
 | 8         |  Azure AI Search    | [Azure AI Search in ChatGPT and global scale apps](https://www.youtube.com/watch?v=NVp9jiMDdXc) | 
 | Spotlight |  Azure AI            | | 
