@@ -58,6 +58,8 @@ Trustworthy AI
 
 
 ## Azure AI Session & Resources
+![Microsoft Ignite Foundry sessions](./img/image002.png)
+
 ### Day 1 - Tuesday, November 19th 
 | Important Links   | Description |                   
 | ------- | ---------------------------------------------------------------------------|
