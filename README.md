@@ -57,10 +57,6 @@ Trustworthy AI
 | COM1033 | November 20th | 10AM | Pablo Castro | Azure AI Search |
 | COM1035 | November 20th | 4PM | Brendan Burns & Eric Boyd | Kubernetes and AI |
 
-
-
-
-
 ## Azure AI Session & Resources
 ![Microsoft Ignite Foundry sessions](./img/image002.png)
 
@@ -91,6 +87,11 @@ Trustworthy AI
 | Important Links   | Description |
 | ------- | ---------------------------------------------------------------------------|
 | [Lab403](./decks/LAB403-IGNITE2024.pdf) |  Unlock AI Potential with Fine-Tuning Strategies for SLMs and LLMs with Azure AI Foundry |
+
+## Microsoft AI Discord Community 
+
+Join the Microsoft AI Discord community 
+[![Azure AI Community Discord](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)
 
 ## Trademarks
 
