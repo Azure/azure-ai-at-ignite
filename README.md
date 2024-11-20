@@ -90,7 +90,7 @@ Trustworthy AI
 ### Day 3,4/5 - Wednesday 20th, Thursday 21st and Friday 22nd November
 | Important Links   | Description |
 | ------- | ---------------------------------------------------------------------------|
-| [Day 2 - Lab403](./decks/LAB403-IGNITE2024.pdf) |  Unlock AI Potential with Fine-Tuning Strategies for SLMs and LLMs with Azure AI Foundry |
+| [Lab403](./decks/LAB403-IGNITE2024.pdf) |  Unlock AI Potential with Fine-Tuning Strategies for SLMs and LLMs with Azure AI Foundry |
 
 ## Trademarks
 
