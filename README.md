@@ -90,8 +90,7 @@ Trustworthy AI
 
 ## Microsoft AI Discord Community 
 
-Join the Microsoft AI Discord community 
-[![Azure AI Community Discord](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)
+Join the [Azure AI Community Discord](https://discord.com/invite/ByRwuEEgH4)
 
 ## Trademarks
 
