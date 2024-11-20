@@ -81,6 +81,17 @@ Trustworthy AI
 | ------- | ---------------------------------------------------------------------------|
 | [Day 4 - All AI sessions](https://ignite.microsoft.com/en-US/sessions?day=2024-11-22&end=1259&filter=topic%2FlogicalValue%3EAI) |  Session catalog sorted for all AI sessions on Day 4 at MS Ignite |
 
+## Workshops Resources 
+
+### PreDay- Monday, November 18th 
+| Important Links   | Description |                   
+| ------- | ---------------------------------------------------------------------------|
+| [Pre016 Hands on Workshop](https://aka.ms/ignite/pre016) | Unlocking NLP Potential: Fine-Tuning with Microsoft Olive  | 
+### Day 3,4/5 - Wednesday 20th, Thursday 21st and Friday 22nd November
+| Important Links   | Description |
+| ------- | ---------------------------------------------------------------------------|
+| [Day 2 - Lab403](./decks/LAB403-IGNITE2024.pdf) |  Unlock AI Potential with Fine-Tuning Strategies for SLMs and LLMs with Azure AI Foundry |
+
 ## Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
