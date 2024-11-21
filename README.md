@@ -31,6 +31,8 @@ Trustworthy AI
 - [Evaluation news](https://aka.ms/Ignite2024/GenAIEvaluations)📈
 - [Monitoring news](https://aka.ms/Ignite2024/GenAIMonitoring)🔍
 - [AI governance news](aka.ms/Ignite2024/AIreports)🏛️
+### Feedback
+- [AI Feedback form](https://aka.ms/ai/feedback)
 ### Notes
 - **If you are on site** get your AI Badge in the Community Booth
 - **If you are a partner** please consider filling out the [Azure AI Infrastructure partner survey](https://aka.ms/AzureInfra/AIPartnerFeedback) 
